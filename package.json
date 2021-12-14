@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "consonant": "^0.0.2",
+    "vowel": "^0.0.3"
+  }
+}
